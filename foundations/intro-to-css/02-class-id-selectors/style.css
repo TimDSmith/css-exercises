@@ -1,0 +1,19 @@
+.one, .three, .five {
+    background-color: #db5e9d;
+    font-family: verdana, helvetica, sans-serif;
+}
+
+#two {
+    color: hwb(240 0% 0%);
+    font-size: 36px;
+}
+
+.three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: hsl(125, 93%, 49%);
+    font-size: 24px;
+    font-style: bold;
+}
